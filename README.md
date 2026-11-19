@@ -44,6 +44,18 @@ Build, lint, release, test and film Obsidian plugins from one dev dependency. Al
 [![npm](https://img.shields.io/npm/v/obsidian-plugin-dev-kit?logo=npm)](https://www.npmjs.com/package/obsidian-plugin-dev-kit)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Dimagious/obsidian-plugin-dev-kit/blob/main/LICENSE)
 
+## Game
+
+### [Balda](https://t.me/BaldaAppBot?startapp=src_github)
+
+A word game in Telegram: add one letter to the grid and spell a word through it.
+Play a friend, a bot or the daily puzzle, in English or Russian.
+
+<img width="240" alt="Balda: adding T turns PLANE into PLANET" src="https://github.com/user-attachments/assets/907e6bb2-f3e5-4af8-9734-e1682c0b84a1" />
+
+[![Play in Telegram](https://img.shields.io/badge/Telegram-play-26A5E4?logo=telegram&logoColor=white)](https://t.me/BaldaAppBot?startapp=src_github)
+
+
 ## Support
 
 The plugins are free. If one saves you time, a coffee pays for the next features and fixes.
