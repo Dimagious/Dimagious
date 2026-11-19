@@ -3,7 +3,7 @@
 I build free, open-source plugins for Obsidian and a word game in Telegram.
 By day I'm a Salesforce developer and team lead at AquivaLabs.
 
-[YouTube](https://www.youtube.com/@Dimagious) · [Buy me a coffee](https://buymeacoffee.com/dimagious)
+[Buy me a coffee](https://buymeacoffee.com/dimagious)
 
 ## Obsidian plugins
 
