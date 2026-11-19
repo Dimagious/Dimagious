@@ -1,61 +1,38 @@
 # Dmitriy Yurkin
 
-I build free, open-source plugins for Obsidian and the toolkit they are built with, and show each one working in a real Obsidian on [YouTube](https://www.youtube.com/@Dimagious).
+I build free, open-source plugins for Obsidian and a word game in Telegram.
 By day I'm a Salesforce developer and team lead at AquivaLabs.
 
-[![YouTube](https://img.shields.io/badge/YouTube-@Dimagious-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Dimagious)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dimagious-5F7FFF?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/dimagious)
+[YouTube](https://www.youtube.com/@Dimagious) · [Buy me a coffee](https://buymeacoffee.com/dimagious)
 
 ## Obsidian plugins
 
-### [Snipsy](https://github.com/Dimagious/snipsidian)
+All three are in the [official Obsidian plugin directory](https://community.obsidian.md/plugins): install them from Settings → Community plugins.
 
-Type a short trigger, get Markdown.
+| Plugin | What it does | Downloads | |
+|---|---|---|---|
+| [Snipsy](https://github.com/Dimagious/snipsidian) | Type a short trigger, get Markdown. | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24.snipsidian.downloads&label=&color=7C3AED) | [Install](https://community.obsidian.md/plugins/snipsidian) · [Video](https://youtu.be/O1bAmuBuQ1Q) · [Docs](https://dimagious.github.io/snipsidian/) |
+| [Dashy](https://github.com/Dimagious/dashsidian) | Dashboards inside a note, from your frontmatter. | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24.dashsidian.downloads&label=&color=7C3AED) | [Install](https://community.obsidian.md/plugins/dashsidian) · [Video](https://youtu.be/h5hsm1_ABdc) · [Docs](https://dimagious.github.io/dashsidian/) |
+| [Garmy](https://github.com/Dimagious/garmidian) | A Garmin dashboard in Obsidian from your own data. | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24.garmidian.downloads&label=&color=7C3AED) | [Install](https://community.obsidian.md/plugins/garmidian) · [Video](https://youtu.be/iQwe1YdaFCE) · [Docs](https://dimagious.github.io/garmidian/) |
 
-[![Install](https://img.shields.io/badge/Obsidian-install-7C3AED?logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/snipsidian)
-[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24.snipsidian.downloads&label=downloads&color=7C3AED)](https://community.obsidian.md/plugins/snipsidian)
-[![Video](https://img.shields.io/badge/video-watch-FF0000?logo=youtube&logoColor=white)](https://youtu.be/O1bAmuBuQ1Q)
-[![Site](https://img.shields.io/badge/site-docs-555555)](https://dimagious.github.io/snipsidian/)
+They are built with [obsidian-plugin-dev-kit](https://github.com/Dimagious/obsidian-plugin-dev-kit): build, lint, release, test and film Obsidian plugins from one dev dependency ([npm](https://www.npmjs.com/package/obsidian-plugin-dev-kit), MIT).
 
-### [Dashy](https://github.com/Dimagious/dashsidian)
+## Balda, a word game in Telegram
 
-Dashboards inside a note, from your frontmatter.
+<table>
+<tr>
+<td width="250"><img width="240" alt="Balda: adding T turns PLANE into PLANET" src="https://github.com/user-attachments/assets/907e6bb2-f3e5-4af8-9734-e1682c0b84a1" /></td>
+<td valign="top">
+Add one letter to the grid and spell a word through it. In English or Russian.
+<ul>
+<li><b>Bot:</b> five levels, from Novice to Grandmaster.</li>
+<li><b>Friend:</b> send a link and play at your pace (12 hours a move) or blitz (60 seconds).</li>
+<li><b>Party:</b> 2 to 4 players, on one phone passed around or each on their own.</li>
+<li><b>Daily Game:</b> one board for everyone, a leaderboard and a streak.</li>
+</ul>
+<a href="https://t.me/BaldaAppBot?startapp=src_github"><img alt="Play in Telegram" src="https://img.shields.io/badge/Telegram-play-26A5E4?logo=telegram&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
-[![Install](https://img.shields.io/badge/Obsidian-install-7C3AED?logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/dashsidian)
-[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24.dashsidian.downloads&label=downloads&color=7C3AED)](https://community.obsidian.md/plugins/dashsidian)
-[![Video](https://img.shields.io/badge/video-watch-FF0000?logo=youtube&logoColor=white)](https://youtu.be/h5hsm1_ABdc)
-[![Site](https://img.shields.io/badge/site-docs-555555)](https://dimagious.github.io/dashsidian/)
-
-### [Garmy](https://github.com/Dimagious/garmidian)
-
-A Garmin dashboard in Obsidian from your own data.
-
-[![Install](https://img.shields.io/badge/Obsidian-install-7C3AED?logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/garmidian)
-[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24.garmidian.downloads&label=downloads&color=7C3AED)](https://community.obsidian.md/plugins/garmidian)
-[![Video](https://img.shields.io/badge/video-watch-FF0000?logo=youtube&logoColor=white)](https://youtu.be/iQwe1YdaFCE)
-[![Site](https://img.shields.io/badge/site-docs-555555)](https://dimagious.github.io/garmidian/)
-
-## Tooling
-
-### [obsidian-plugin-dev-kit](https://github.com/Dimagious/obsidian-plugin-dev-kit)
-
-Build, lint, release, test and film Obsidian plugins from one dev dependency. All three plugins above are built with it.
-
-[![npm](https://img.shields.io/npm/v/obsidian-plugin-dev-kit?logo=npm)](https://www.npmjs.com/package/obsidian-plugin-dev-kit)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Dimagious/obsidian-plugin-dev-kit/blob/main/LICENSE)
-
-## Game
-
-### [Balda](https://t.me/BaldaAppBot?startapp=src_github)
-
-A word game in Telegram: add one letter to the grid and spell a word through it.
-Play a friend, a bot or the daily puzzle, in English or Russian.
-
-<img width="240" alt="Balda: adding T turns PLANE into PLANET" src="https://github.com/user-attachments/assets/907e6bb2-f3e5-4af8-9734-e1682c0b84a1" />
-
-[![Play in Telegram](https://img.shields.io/badge/Telegram-play-26A5E4?logo=telegram&logoColor=white)](https://t.me/BaldaAppBot?startapp=src_github)
-
-
-## Support
-
-The plugins are free. If one saves you time, a coffee pays for the next features and fixes.
+The plugins are free. If one saves you time, [a coffee](https://buymeacoffee.com/dimagious) pays for the next features and fixes.
